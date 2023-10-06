@@ -1,0 +1,47 @@
+body {
+	background-color:lightblue;
+}
+
+.login_div1,
+.login_div2 {
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+
+#player-1_name,
+#player-2_name {
+	display: inline-block;
+}
+
+#word {
+	width: 60%;
+}
+
+#word_display {
+	letter-spacing: 5px;
+}
+
+#output {
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+
+#player1_name,#player2_name{
+	margin-left: 20px;
+}
+
+#player1_score,#player2_score{
+	margin-left: 20px;
+}
+
+#h1-2{
+	font-family: 'Roboto', sans-serif;
+}
+
